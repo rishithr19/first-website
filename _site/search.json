@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": ".",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n#| echo: false\n\n#| label: setup\nlibrary(tidyverse)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Rishith Ravi"
+    "text": "My name is Rishith Ravi, and I am attending High School South\nRishith Ravi\nKane’s Free Data Science Bootcamp"
   }
 ]

@@ -1,5 +1,8 @@
 ---
 title: "About"
 ---
+My name is **Rishith Ravi**, and I am attending **High School South**
 
 Rishith Ravi
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)

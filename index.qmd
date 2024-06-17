@@ -1,7 +1,25 @@
 ---
 title: "."
+execute: 
+  echo: false
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+#| message: false
+
+#| echo: false
+
+#| label: setup
+library(tidyverse)
+```
+
+```{r}
+#| echo: false
+
+#| label: diamonds-plot
+```
+
